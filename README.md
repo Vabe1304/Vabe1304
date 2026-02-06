@@ -1,5 +1,7 @@
 # Hi there, I'm Valentina 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/-valentina--agudelo--echeverri)
+
 🎓 Biological Engineer  
 🧬 Interested in Bioinformatics and Data Science applied to Biotechnology  
 🌍 From Colombia
